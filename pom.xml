@@ -598,6 +598,10 @@
 
 	<properties>
 
+		 <sonar.projectKey>kirebr_hapi-fhir</sonar.projectKey>
+		 <sonar.organization>kirebr</sonar.organization>
+ 		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		
 		<fhir_core_version>4.1.7-SNAPSHOT</fhir_core_version>
 		<ucum_version>1.0.2</ucum_version>
 
